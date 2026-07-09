@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🌱 &nbsp;I'm currently learning **DSA**
+🌱 &nbsp;I'm currently learning **Rust and kubernetes**
 
 ### 🛠️ Tech Stack
 
